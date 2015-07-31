@@ -1,0 +1,2 @@
+## Risks
+ Demographics is a risk. Harley-Davidson has to prove that younger generation other than baby boomers are interested and buying the motorbikes. There might be a risk once the baby-boomer generation are gone, the product will be out of touch
