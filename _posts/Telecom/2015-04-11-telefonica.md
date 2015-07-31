@@ -20,7 +20,9 @@ Contrarian, dividend
  * Operating Income has declined from €16,000M to €6,967M (2010 to 2014)
  *  Shared count has declined: 4,705,217 to 4,606,389. 
  * Financial debt scheduled to mature in 2015 amounted to 8,491 million euros, and in 2016, 8,407 million euros.
+ 
 ### Company
+
 In Europe, the Telefónica Group generated 23.9% of its total revenues in Spain, 14.0% in the United Kingdom and 11.0% in Germany in 2014.
 
 In Latin America, Telefónica Hispanoamérica and Telefónica Brazil represented 26.1% and 22.3% of the Telefónica

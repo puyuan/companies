@@ -9,21 +9,20 @@ markdown: kramdown
 
 # The title and tagline is showed on homepage
 #
-title :  Simpleyyt 
-tagline: Yitao's Blog
+title :  Investment Log
+tagline: research pays..
 
 # Information about author
 #
 author :
-  name : Yitao Yao
+  name : Paul Yuan
   
 # Information for contacts showed at on the footer
 #
 contact :
-  e-mail : mailto:simpleyyt@gmail.com
-  Github : https://github.com/Simpleyyt
-  WeiBo : http://www.weibo.com/u/1836017133
-  Google+ : https://plus.google.com/103860633659538888207?rel=author
+  e-mail : 
+  Github : 
+  Google+ : 
   
 # Links showed on the footer
 #
