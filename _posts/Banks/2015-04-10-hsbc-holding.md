@@ -2,7 +2,7 @@
 layout: post
 title:  "HSBC"
 categories: investment
-tags: HSBC banks
+tags: HSBC banks research
 ---
 
 ## Thesis

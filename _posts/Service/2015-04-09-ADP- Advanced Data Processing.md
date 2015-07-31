@@ -3,7 +3,7 @@ layout: post
 title:  Advanced Data Processing ADP
 date:   2015-04-09 21:46:04
 categories: investment
-tags: service business_processing
+tags: service business_processing research
 ---
 
 

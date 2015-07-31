@@ -2,7 +2,7 @@
 layout: post
 title:  "SodaStream"
 categories: investment
-tags: consumer
+tags: consumer research
 ---
 
 ## Thesis

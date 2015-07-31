@@ -2,6 +2,7 @@
 layout: post
 title:  "Telefonica"
 categories: investment
+tags: bought telecom
 ---
 
 ### Type of investment

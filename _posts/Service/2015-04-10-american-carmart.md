@@ -3,7 +3,7 @@ layout: post
 title:  "America's Car-mart"
 date:   2015-04-10 21:46:04
 categories: investment
-tags: retailer
+tags: retailer bought
 ---
 
 CRMT is a small sized used car retailer specializing in buys and pay business. Half of the business is financing, half of the business is selling cars. 
