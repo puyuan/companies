@@ -2,6 +2,7 @@
 layout: post
 title:  "Sold EROC and NRP"
 categories: investment
+tags: energy sell
 ---
 
 Mistakes were made purchasing EROC and NRP. I overlooked macroeconomics, management and debt factors having material impact on the companies' operations. 
