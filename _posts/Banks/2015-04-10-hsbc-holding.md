@@ -8,11 +8,11 @@ tags: HSBC banks
 ## Thesis
 
 
-HSBC is one of the world largest bank with significant presence in Asia, Middle-East and Africa. In 2008 financial crisis, the bank weathered the financial crisis with a relatively healhly balance sheet. However, since then,  it's financial performance is just a stalwart among its peers.  Notably, it's recent compliance and regulatory costs are a going concern, and negative bad press hurts the firm. 
+HSBC is one of the world largest bank with significant presence in Asia, Middle-East and Africa. In 2008 financial turmoil, the bank weathered the crisis with a relatively healhly balance sheet. While many of its near-bankrupt peers have recovered strongly in recent years, HSBC continues to be a stalwart. Maybe its risk adverse saved it from the crisis, so I shouldn't blame them for their performance.   Part of their underperformance comes from their ineptness in meeting regulatory requirments and in managing the bad risks under the hood. 
 
 <!--more-->
 
-Despite the negatives, the bank has a strong balance sheet, a presence in emerging markets, and a high dividend yield. The dividend seems quite safe at this point. Its low institutional ownership, which can be seen as a positive or negative, perhaps due to lack of interest by the investment community presents a contrarion opportunity.
+Despite the negatives, the bank has a strong balance sheet, a presence in emerging markets, and a high dividend yield. The dividend seems quite safe at this point. Its low institutional ownership reflects the negative perception from the investment communities. 
 
 I can see why institutions avoid the bank at this point, because it is like a mine field that can explode any time due to non-compliance. Its revenue growth is flat to declining,
 and its business is not really producing anything exciting. Not a lot of coverage by investors/analyst, and just lots of negative press. 
