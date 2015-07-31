@@ -43,5 +43,8 @@ Their is potential to grow the market share organically over the coming decade.
 ## Positives
 
 ## Risks
+- Self-made soda still needs to be proven to be a consumer's long term preference. It could be just a fad or toy, unless repeated buying is picking up. 
+- Its lack of branded flavoring, such as coke, pepsi, can deter buyers
+
 
 ## Exit Strategy
