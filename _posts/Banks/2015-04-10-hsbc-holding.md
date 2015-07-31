@@ -2,16 +2,8 @@
 layout: post
 title:  "HSBC"
 categories: investment
+tags: BP
 ---
-
-## Type of investment
-Contrarion, boring stable business. 
-
-## Catalyst
- Interest rate rise, emerging market performance, regulatory compliance, successful restructuring. 
-
-## Recent Events
-HSBC has recently received a lot of bad press concerning tax evasions, corruption, money laundering in its swiss unit. Since the 2008 financial crisis, regulators has been furvously probing HSBC on its banking practices. While the firm layed out plans for significant restructuring, it was moving too slow to stay in compliance. Every couple of months news comes out of governments levying fines on HSBC for its malpractices.
 
 ## Thesis
 
@@ -26,6 +18,18 @@ I can see why institutions avoid the bank at this point, because it is like a mi
 and its business is not really producing anything exciting. Not a lot of coverage by investors/analyst, and just lots of negative press. 
 
 The positive side is that the unglamorous stable business will still generate alot of income if you hold it as a dividend stock. It is producing mouth-watering yields which I prefer over bonds now. The organic growth in emerging market, and the future interest rate increase is both a positive for the company. But till then, investors will have to wait until regulatory risks are addressed. 
+
+
+## Type of investment
+Contrarion, boring stable business. 
+
+## Catalyst
+ Interest rate rise, emerging market performance, regulatory compliance, successful restructuring. 
+
+## Recent Events
+HSBC has recently received a lot of bad press concerning tax evasions, corruption, money laundering in its swiss unit. Since the 2008 financial crisis, regulators has been furvously probing HSBC on its banking practices. While the firm layed out plans for significant restructuring, it was moving too slow to stay in compliance. Every couple of months news comes out of governments levying fines on HSBC for its malpractices.
+
+
 
 ## Exit Strategy
 * If non-compliance and regulatory costs continues to burden the company, its growth and balance sheet. Consider to exit the position. 
