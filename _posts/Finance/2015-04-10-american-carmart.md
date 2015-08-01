@@ -65,7 +65,7 @@ CRMT is one of the largest public held auto-retailers. It operates under the "In
 
     Organic growth within a particular region in US. In the long term it may extend to a larger area. 
     
-    Company is buying back shares for the past five years while continuing to expand stores using retained earnings. Company does not need to raise additional capital via debt or equity. The reduction in shares is a plus, and I prefer it over dividends. In fact the company operates under very little cash.  
+    Company is buying back shares for the past five years while continuing to expand stores using retained earnings. Company does not need to raise additional capital via debt or equity and it is using its revolving credit facility wisely for short term cash need in proportion to its sales. The reduction in shares is a plus, and I prefer it over dividends. In fact the company operates under very little cash, but that doesn't seem to make it more risky given a conservative loan loss reserve. The real risk that needs to be monitored is the delinquency and missed payments(credit quality) over the long haul.    
  
  
  
