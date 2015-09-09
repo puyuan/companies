@@ -10,6 +10,9 @@ CRMT is one of the largest public held auto-retailers. It operates under the "In
 
 <!--more-->
 
+## Recent Updates: 
+2015-09-09 - Management stated that delinquency is higher than average and they are working with stores to improve on underwriting.
+
 ## Qualitative
 1. Market potential for the long run
     
